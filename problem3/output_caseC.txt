@@ -1,0 +1,78 @@
+Reading road network...
+Reading metro rail network...
+Reading bus network...
+Adding transfer edges...
+Graph Statistics:
+Total nodes: 47895
+Total edges: 55101
+Road nodes: 46669
+Metro nodes: 622
+Bus nodes: 604
+
+Source: Random point (90.405, 23.855)
+  Nearest road node: 188 at (90.405, 23.8549)
+  Distance to nearest node: 0.012 km
+
+Destination: Random point (90.440, 23.834)
+  Nearest road node: 4 at (90.441, 23.834)
+  Distance to nearest node: 0.054 km
+
+Walking cost to source node: ৳0.24
+Path cost (on network): ৳104.37
+Walking cost from destination node: ৳1.09
+Minimum total cost: ৳105.70
+
+Path details: 46 nodes
+Node 188 (road) -> 0.018 km (car, ৳0.35)
+Node 37552 (road) -> 1.932 km (car, ৳38.64)
+Node 37553 (road) -> 0.278 km (car, ৳5.56)
+Node 37554 (road) -> 0.173 km (car, ৳3.46)
+Node 43107 (road) -> 0.182 km (car, ৳3.65)
+Node 43108 (road) -> 0.301 km (car, ৳6.03)
+Node 42845 (road) -> 0.097 km (car, ৳1.94)
+Node 43163 (road) -> 0.044 km (car, ৳0.88)
+Node 43161 (road) -> 0.070 km (car, ৳1.40)
+Node 43154 (road) -> 0.030 km (car, ৳0.59)
+Node 43156 (road) -> 0.069 km (car, ৳1.38)
+Node 43162 (road) -> 0.017 km (car, ৳0.34)
+Node 43153 (road) -> 0.016 km (car, ৳0.31)
+Node 43186 (road) -> 0.030 km (car, ৳0.60)
+Node 43187 (road) -> 0.045 km (car, ৳0.90)
+Node 42815 (road) -> 0.058 km (car, ৳1.15)
+Node 42816 (road) -> 0.045 km (car, ৳0.90)
+Node 43376 (road) -> 0.040 km (car, ৳0.81)
+Node 43377 (road) -> 0.082 km (car, ৳1.63)
+Node 43375 (road) -> 0.039 km (car, ৳0.78)
+Node 43367 (road) -> 0.004 km (car, ৳0.08)
+Node 43372 (road) -> 0.036 km (car, ৳0.71)
+Node 43393 (road) -> 0.051 km (car, ৳1.01)
+Node 43395 (road) -> 0.015 km (car, ৳0.31)
+Node 43226 (road) -> 0.039 km (car, ৳0.78)
+Node 43398 (road) -> 0.022 km (car, ৳0.43)
+Node 43397 (road) -> 0.031 km (car, ৳0.61)
+Node 43224 (road) -> 0.005 km (car, ৳0.09)
+Node 43345 (road) -> 0.029 km (car, ৳0.57)
+Node 43346 (road) -> 0.101 km (car, ৳2.03)
+Node 43447 (road) -> 0.088 km (car, ৳1.77)
+Node 43442 (road) -> 0.043 km (car, ৳0.86)
+Node 43434 (road) -> 0.016 km (car, ৳0.31)
+Node 43454 (road) -> 0.032 km (car, ৳0.64)
+Node 43426 (road) -> 0.049 km (car, ৳0.99)
+Node 43451 (road) -> 0.042 km (car, ৳0.84)
+Node 43431 (road) -> 0.010 km (car, ৳0.20)
+Node 43244 (road) -> 0.105 km (car, ৳2.10)
+Node 43223 (road) -> 0.070 km (car, ৳1.39)
+Node 43506 (road) -> 0.017 km (car, ৳0.34)
+Node 43503 (road) -> 0.121 km (car, ৳2.42)
+Node 43507 (road) -> 0.095 km (car, ৳1.90)
+Node 43501 (road) -> 0.079 km (car, ৳1.59)
+Node 2 (road) -> 0.159 km (car, ৳3.17)
+Node 3 (road) -> 0.396 km (car, ৳7.91)
+Node 4 (road)
+
+Summary:
+Car distance: 5.219 km (Cost: ৳104.37)
+Metro distance: 0.000 km (Cost: ৳0.00)
+Total cost: ৳104.37
+
+KML file generated: route_caseC.kml

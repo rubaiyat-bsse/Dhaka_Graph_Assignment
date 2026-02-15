@@ -1,0 +1,114 @@
+Reading road network...
+Reading metro network...
+Reading bus network...
+Adding transfer edges...
+Graph built successfully!
+Nodes: 47895
+Enter source (lon lat): Enter destination (lon lat): Enter start time (hour minute in 24h format): 
+Running Dijkstra...
+
+========================================
+
+Problem No: 5
+Source: (90.40, 23.86)
+Destination: (90.44, 23.83)
+Starting time at source: 8:30 AM
+
+8:30 AM - 8:30 AM: Ride Car from (90.404772, 23.855136) to (90.404976, 23.854894) (0 minutes)
+
+8:30 AM - 8:30 AM: Ride Car from (90.404976, 23.854894) to (90.405082, 23.854769) (0 minutes)
+
+8:30 AM - 8:41 AM: Ride Car from (90.405082, 23.854769) to (90.416504, 23.840885) (11 minutes)
+
+8:41 AM - 8:43 AM: Ride Car from (90.416504, 23.840885) to (90.417852, 23.838712) (1 minutes)
+
+8:43 AM - 8:44 AM: Ride Car from (90.417852, 23.838712) to (90.418367, 23.837227) (1 minutes)
+
+8:44 AM - 8:45 AM: Ride Car from (90.418367, 23.837227) to (90.418794, 23.835634) (1 minutes)
+
+8:45 AM - 8:47 AM: Ride Car from (90.418794, 23.835634) to (90.419250, 23.832955) (1 minutes)
+
+8:47 AM - 8:48 AM: Ride Car from (90.419250, 23.832955) to (90.420201, 23.832896) (0 minutes)
+
+8:48 AM - 8:48 AM: Ride Car from (90.420201, 23.832896) to (90.420623, 23.832809) (0 minutes)
+
+8:48 AM - 8:48 AM: Ride Car from (90.420623, 23.832809) to (90.421303, 23.832700) (0 minutes)
+
+8:48 AM - 8:48 AM: Ride Car from (90.421303, 23.832700) to (90.421588, 23.832650) (0 minutes)
+
+8:48 AM - 8:49 AM: Ride Car from (90.421588, 23.832650) to (90.422262, 23.832581) (0 minutes)
+
+8:49 AM - 8:49 AM: Ride Car from (90.422262, 23.832581) to (90.422428, 23.832557) (0 minutes)
+
+8:49 AM - 8:49 AM: Ride Car from (90.422428, 23.832557) to (90.422543, 23.832465) (0 minutes)
+
+8:49 AM - 8:49 AM: Ride Car from (90.422543, 23.832465) to (90.422634, 23.832207) (0 minutes)
+
+8:49 AM - 8:50 AM: Ride Car from (90.422634, 23.832207) to (90.423026, 23.832018) (0 minutes)
+
+8:50 AM - 8:50 AM: Ride Car from (90.423026, 23.832018) to (90.423535, 23.831792) (0 minutes)
+
+8:50 AM - 8:50 AM: Ride Car from (90.423535, 23.831792) to (90.423978, 23.831759) (0 minutes)
+
+8:50 AM - 8:50 AM: Ride Car from (90.423978, 23.831759) to (90.424131, 23.831425) (0 minutes)
+
+8:50 AM - 8:51 AM: Ride Car from (90.424131, 23.831425) to (90.424928, 23.831343) (0 minutes)
+
+8:51 AM - 8:51 AM: Ride Car from (90.424928, 23.831343) to (90.425312, 23.831349) (0 minutes)
+
+8:51 AM - 8:51 AM: Ride Car from (90.425312, 23.831349) to (90.425353, 23.831347) (0 minutes)
+
+8:51 AM - 8:51 AM: Ride Car from (90.425353, 23.831347) to (90.425704, 23.831331) (0 minutes)
+
+8:51 AM - 8:52 AM: Ride Car from (90.425704, 23.831331) to (90.426197, 23.831269) (0 minutes)
+
+8:52 AM - 8:52 AM: Ride Car from (90.426197, 23.831269) to (90.426346, 23.831247) (0 minutes)
+
+8:52 AM - 8:52 AM: Ride Car from (90.426346, 23.831247) to (90.426726, 23.831192) (0 minutes)
+
+8:52 AM - 8:52 AM: Ride Car from (90.426726, 23.831192) to (90.426935, 23.831163) (0 minutes)
+
+8:52 AM - 8:52 AM: Ride Car from (90.426935, 23.831163) to (90.427231, 23.831113) (0 minutes)
+
+8:52 AM - 8:52 AM: Ride Car from (90.427231, 23.831113) to (90.427275, 23.831104) (0 minutes)
+
+8:52 AM - 8:52 AM: Ride Car from (90.427275, 23.831104) to (90.427397, 23.831335) (0 minutes)
+
+8:52 AM - 8:53 AM: Ride Car from (90.427397, 23.831335) to (90.428355, 23.831584) (0 minutes)
+
+8:53 AM - 8:54 AM: Ride Car from (90.428355, 23.831584) to (90.429144, 23.831916) (0 minutes)
+
+8:54 AM - 8:54 AM: Ride Car from (90.429144, 23.831916) to (90.429464, 23.832170) (0 minutes)
+
+8:54 AM - 8:54 AM: Ride Car from (90.429464, 23.832170) to (90.429576, 23.832266) (0 minutes)
+
+8:54 AM - 8:54 AM: Ride Car from (90.429576, 23.832266) to (90.429826, 23.832437) (0 minutes)
+
+8:54 AM - 8:54 AM: Ride Car from (90.429826, 23.832437) to (90.430310, 23.832419) (0 minutes)
+
+8:54 AM - 8:55 AM: Ride Car from (90.430310, 23.832419) to (90.430723, 23.832389) (0 minutes)
+
+8:55 AM - 8:55 AM: Ride Car from (90.430723, 23.832389) to (90.430805, 23.832343) (0 minutes)
+
+8:55 AM - 8:55 AM: Ride Car from (90.430805, 23.832343) to (90.431751, 23.831970) (0 minutes)
+
+8:55 AM - 8:56 AM: Ride Car from (90.431751, 23.831970) to (90.432394, 23.832184) (0 minutes)
+
+8:56 AM - 8:56 AM: Ride Car from (90.432394, 23.832184) to (90.432535, 23.832270) (0 minutes)
+
+8:56 AM - 8:57 AM: Ride Car from (90.432535, 23.832270) to (90.433481, 23.832933) (0 minutes)
+
+8:57 AM - 8:57 AM: Ride Car from (90.433481, 23.832933) to (90.434399, 23.833088) (0 minutes)
+
+8:57 AM - 8:58 AM: Ride Car from (90.434399, 23.833088) to (90.435171, 23.832986) (0 minutes)
+
+8:58 AM - 8:59 AM: Ride Car from (90.435171, 23.832986) to (90.436729, 23.833048) (0 minutes)
+
+8:59 AM - 9:01 AM: Ride Car from (90.436729, 23.833048) to (90.440514, 23.833864) (2 minutes)
+
+Total travel time: 31 minutes
+Arrival time: 9:01 AM
+
+========================================
+
+KML file generated: route_caseA.kml
